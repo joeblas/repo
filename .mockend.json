@@ -1,6 +1,5 @@
 {
   "Post": {
-    "title": { "string": {} },
-    "body": { "string": {} },
+    "title": { "string": {} }
   }
 }
