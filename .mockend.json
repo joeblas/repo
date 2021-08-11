@@ -1,6 +1,9 @@
 {
   "Post": {
-    "title": { "string": {} },
-    "content": { "string": {} },
+    "title": { "string": [
+      "How to Upload a Payment Request",
+      "How to Request an Edit"
+    ] },
+    
   }
 }
